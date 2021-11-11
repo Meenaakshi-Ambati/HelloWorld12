@@ -7,7 +7,9 @@ namespace Helloworld12
         static void Main(string[] args)
         {
             Console.WriteLine("Hello it's me");
-            Console.WriteLine("meenaa");
+            Console.WriteLine("Meenaakshi");
+            Console.WriteLine("Ambati");
+            
         }
     }
 }
